@@ -11,3 +11,7 @@
 📌 Unexcused absences (566 total) represent a critical issue and directly impact overall academic success rates.
 ## 📸 Dashboard Preview
 ![Dashboard](dashboard.png)
+## 💡 Recommendations
+- Improve attendance monitoring in Engineering faculty  
+- Focus on reducing academic backlog  
+- Increase engagement of part-time students  
